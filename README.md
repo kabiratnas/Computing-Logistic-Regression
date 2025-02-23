@@ -22,7 +22,11 @@ We use the logistic regression model:
 where:
 - \( b_0 \) is the intercept (log-odds for men),
 - \( b_1 \) is the slope (the difference in log-odds between women and men).
-- 
+
+Results:
+Log-odds for women: 0.4507
+Log-odds for men: -0.2420
+
 Interpretation:
 The odds of being an Instagram user are about 2 times higher for women than for men.
 
