@@ -26,7 +26,6 @@ where:
 Interpretation:
 The odds of being an Instagram user are about 2 times higher for women than for men.
 
-Results
 <img width="311" alt="image" src="https://github.com/user-attachments/assets/459cf9bb-7b60-430d-9009-375c5231cb9f" />
 
 📝 Conclusion
