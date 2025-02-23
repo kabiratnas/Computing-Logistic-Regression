@@ -22,6 +22,7 @@ We use the logistic regression model:
 where:
 - \( b_0 \) is the intercept (log-odds for men),
 - \( b_1 \) is the slope (the difference in log-odds between women and men).
+- 
 
 ## R Code
 
