@@ -54,16 +54,3 @@ cat("b1 (Slope)     =", round(b1, 4), "\n")
 # Exponentiating b1 gives the odds ratio:
 odds_ratio <- exp(b1)
 cat("Odds Ratio (exp(b1)) =", round(odds_ratio, 4), "\n")
-
-Interpretation:
-The odds of being an Instagram user are about 2 times higher for women than for men.
-
-Results
-<img width="311" alt="image" src="https://github.com/user-attachments/assets/459cf9bb-7b60-430d-9009-375c5231cb9f" />
-
-📝 Conclusion
-This analysis shows that women are approximately twice as likely as men to be Instagram users. The logistic regression model confirms that gender plays a significant role in determining Instagram usage likelihood.
-
-✅ Men’s odds of being an Instagram user ≈ 0.785
-✅ Women’s odds of being an Instagram user ≈ 1.57
-✅ Women are roughly 2 times more likely to be Instagram users than men.
